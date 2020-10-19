@@ -1,4 +1,4 @@
-# homeworkthree
+## Password Generator
 Homework Three - Password Generator
 <br>
 For this homework I created a password generator using JS
