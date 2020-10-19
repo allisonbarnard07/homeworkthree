@@ -12,6 +12,8 @@ function writePassword() {
     passwordText.value = password;
 }
 
+//Code to generate password with options for user to choose from if/while
+
 function generatePassword() {
     var result = "";
 
