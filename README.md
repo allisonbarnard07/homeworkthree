@@ -1,9 +1,6 @@
 ## Password Generator
 
 ## License
-MIT
-
-## Badges
   ![github-license-image](https://img.shields.io/github/license/commonality/getting-started-inner-source.svg?style=flat-square)
 
 ## Description
