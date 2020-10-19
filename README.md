@@ -13,5 +13,6 @@ This password generator was create using JavaScript. The user will choose creden
 Allison Barnard
 
 ## Image
+![image of password_generator](/password_generator.PNG)
 
 
