@@ -61,5 +61,5 @@ for (i = 0; i < passwordLength; i++) {
 
 return result;
 }
-// Add event listener to generate button
+
 generateBtn.addEventListener("click", writePassword)
